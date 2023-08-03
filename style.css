@@ -1,0 +1,31 @@
+body{
+  background-attachment: fixed;
+    background-image: url('i-2.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+a{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+div.column {
+    float: left;
+    width: 300px;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+  }
+  div.column img {
+    width: 100%;
+    height: auto;
+  }
+  .iframe{
+    text-align: center;
+  }
+ 
+  
+  
+  
